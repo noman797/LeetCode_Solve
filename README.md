@@ -29,4 +29,3 @@ Problems are added regularly. Stay tuned and keep coding! 💻
 
 ---
 
-<p align="center">⭐ Star this repo if it helps you!</p>
